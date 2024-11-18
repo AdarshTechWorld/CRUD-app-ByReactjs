@@ -1,0 +1,44 @@
+{
+  "Students": [
+    {
+      "id": "1",
+      "uName": "Adarsh Verma",
+      "uEmail": "adii12@gamil.com",
+      "uPass": "12345",
+      "uMobile": "9876543210",
+      "uCourse": "HTML"
+    },
+    {
+      "id": "68a6",
+      "uName": "Akash",
+      "uEmail": "akash@gmail.com",
+      "uPass": "8765",
+      "uMobile": "7875633886",
+      "uCourse": "Python"
+    },
+    {
+      "id": "db21",
+      "uName": "Mukul Sharma",
+      "uEmail": "mukku@gamil.com",
+      "uPass": "09878",
+      "uMobile": "8967437667",
+      "uCourse": "php"
+    },
+    {
+      "id": "f441",
+      "uName": "Mayank",
+      "uEmail": "manu@gmail.com",
+      "uPass": "5678",
+      "uMobile": "7567578668",
+      "uCourse": "java"
+    },
+    {
+      "id": "4d62",
+      "uName": "Yash",
+      "uEmail": "yashu87@gmail.com",
+      "uPass": "9087",
+      "uMobile": "9087123651",
+      "uCourse": "React"
+    }
+  ]
+}
